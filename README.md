@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UPI Intelligence Analyst
 
 AI-powered UPI analytics system using a Medallion architecture pipeline + multi-agent RAG.
@@ -90,3 +91,6 @@ uvicorn backend.main:app --reload
 - "How was BHIM growth in 2024?"
 - "Find banks with suspicious transaction patterns"
 - "Generate an executive summary of bank risk"
+=======
+# UPI-Intelligence-analyst
+>>>>>>> a5afd95c537cb05d38df376710d622403b43b1bc
