@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Data files
+data/processed/embeddings.pkl
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
